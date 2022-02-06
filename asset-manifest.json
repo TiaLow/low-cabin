@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/low-cabin/static/css/main.073c9b0a.css",
+    "main.js": "/low-cabin/static/js/main.6508e50b.js",
+    "static/js/787.f9a4c75f.chunk.js": "/low-cabin/static/js/787.f9a4c75f.chunk.js",
+    "static/media/logo.svg": "/low-cabin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/low-cabin/index.html",
+    "main.073c9b0a.css.map": "/low-cabin/static/css/main.073c9b0a.css.map",
+    "main.6508e50b.js.map": "/low-cabin/static/js/main.6508e50b.js.map",
+    "787.f9a4c75f.chunk.js.map": "/low-cabin/static/js/787.f9a4c75f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6508e50b.js"
+  ]
+}
